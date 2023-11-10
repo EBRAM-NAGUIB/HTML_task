@@ -1,0 +1,13 @@
+.parent{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.child{
+    margin: 20px;
+    width: 25%;
+    
+
+
+}
